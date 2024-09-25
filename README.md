@@ -1,6 +1,6 @@
 # 2024-AIML-study
 
-GDSC 3기 AI/ML 부서 스터디의 실습 코드를 올리는 Repository 입니다
+GDG 3기 AI/ML 부서 스터디의 실습 코드를 올리는 Repository 입니다
 
 
 ## 📚 스터디 교재
